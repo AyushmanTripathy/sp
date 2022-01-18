@@ -1,0 +1,11 @@
+DONE
+----
+variable declartion
+boolen combarision
+while loop
+if else block
+arithmetic
+
+TODO
+----
+strings
